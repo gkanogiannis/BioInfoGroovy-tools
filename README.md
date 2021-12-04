@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/428339664.svg)](https://zenodo.org/badge/latestdoi/428339664)
+
 Bio-informatics tools written in the groovy programming/scripting language.
 
 ExternalSort.groovy : Sorts reads of a fastq or fasta file according to their ID.
